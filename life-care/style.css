@@ -333,10 +333,16 @@ a img.aligncenter {
 .megamenu .dropdown-menu {
     left: auto;
 }
-
-.j {
+ .j{
+    width: 100px;
+    height: 60px;
+    line-height: 100px;
+    float: left;
+ }
+.jo {
     width: 100px;
     height: 150px;
+   
 }
 .megamenu .megamenu-content {
     padding: 20px 30px;
@@ -1120,7 +1126,6 @@ li.social-links a {
 
 .post-media img {
     width: 100%;
-   
 }
 
 .playbutton {
